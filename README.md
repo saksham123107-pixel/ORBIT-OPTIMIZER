@@ -1,13 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05070d,50:0e1626,100:0078D6&height=200&section=header&text=ORBIT%20OPTIMIZER&fontSize=54&fontColor=ffffff&desc=FAST%20·%20SAFE%20·%20REVERSIBLE&descSize=16&descAlignY=76&animation=fadeIn" alt="ORBIT OPTIMIZER" width="100%" />
+
 <div align="center">
 
-# 🛰️ ORBIT OPTIMIZER
 ### AN OPTIMIZER FOR WINDOWS 11/10
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=560&lines=300%2B+reversible+tweaks;One-click+apply+%C2%B7+one-click+revert;No+bloat.+Just+speed." alt="Typing SVG" /></a>
 
-![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%20Windows%2011-0078D6?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0.0-2DD4BF?style=for-the-badge)
-![Made by](https://img.shields.io/badge/Made%20by-PRIMEx-8B98A5?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%20Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Version](https://img.shields.io/badge/Version-1.0.0-2DD4BF?style=for-the-badge&logo=tag&logoColor=white)
+![Made by](https://img.shields.io/badge/Made%20by-PRIMEx-8B98A5?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 
@@ -15,7 +16,9 @@
 
 **Fast, safe and reversible system tweaks with a clean interface.**
 
-[Download](https://github.com/saksham123107-pixel/ORBIT-OPTIMIZER/releases/latest) · [Report an issue](https://github.com/saksham123107-pixel/ORBIT-OPTIMIZER/issues) · [Changelog](https://github.com/saksham123107-pixel/ORBIT-OPTIMIZER/releases)
+[⬇ Download](https://github.com/saksham123107-pixel/ORBIT-OPTIMIZER/releases/latest) · [🐞 Report an issue](https://github.com/saksham123107-pixel/ORBIT-OPTIMIZER/issues) · [📋 Changelog](https://github.com/saksham123107-pixel/ORBIT-OPTIMIZER/releases) · [💬 Discord](https://discord.gg/qaeupnP5f2) · [▶️ YouTube](https://www.youtube.com/@PRIME_H.4X)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 </div>
 
@@ -31,7 +34,7 @@
 | 👤 | **No admin needed to install** — per-user install (some tweaks ask for admin when applied) |
 | 🧹 | **No bloat** — one ~40 MB app, no background services, no bundled junk |
 
-## 📦 Installation
+## 🚀 Installation
 
 1. Hit the **⬇ DOWNLOAD** button above — or grab the setup from [**Releases**](https://github.com/saksham123107-pixel/ORBIT-OPTIMIZER/releases/latest)
 2. Run it — that's it. No admin prompt, no extra files needed.
@@ -49,7 +52,7 @@ The installer automatically:
 
 **Create a restore point first.** One wrong registry value can destabilize Windows.
 
-### Create a restore point (30 seconds)
+### 🛟 Create a restore point (30 seconds)
 
 1. Press `Win + S`, type **"Create a restore point"**, open it
 2. Select your system drive (usually `C:`) → click **Create…**
@@ -68,12 +71,12 @@ Checkpoint-Computer -Description "Before ORBIT OPTIMIZER" -RestorePointType MODI
 <summary><b>📏 Rules of caution (click to expand)</b></summary>
 <br>
 
-- **Apply a few tweaks at a time**, not everything at once — so if something breaks, you know exactly which tweak did it
-- **Restart after applying** — some tweaks (CPU priority, power plan) only take effect after a reboot
-- **Read what you enable** — each card describes what it changes
-- **Don't tweak what you don't recognize** — if a description is unclear, skip it
-- **Keep the app's backup active** — ORBIT OPTIMIZER stores your original values and can revert every tweak from the card itself
-- Gaming/performance gains vary by hardware — this is not a magic FPS button
+- 🧪 **Apply a few tweaks at a time**, not everything at once — so if something breaks, you know exactly which tweak did it
+- 🔄 **Restart after applying** — some tweaks (CPU priority, power plan) only take effect after a reboot
+- 📖 **Read what you enable** — each card describes what it changes
+- 🙈 **Don't tweak what you don't recognize** — if a description is unclear, skip it
+- 💾 **Keep the app's backup active** — ORBIT OPTIMIZER stores your original values and can revert every tweak from the card itself
+- 🎮 Gaming/performance gains vary by hardware — this is not a magic FPS button
 
 </details>
 
@@ -103,14 +106,14 @@ Removes all program files, shortcuts and the Apps & features entry.
 | 💾 Disk | ~40 MB |
 | 📶 Internet | Only required for signing in |
 
-## 🚀 Usage
+## 🎯 Usage
 
-1. Launch **ORBIT OPTIMIZER**
-2. Sign in with your license key / Discord account
-3. Browse categories → toggle the tweaks you want → hit **Apply**
-4. Revert any tweak at any time from the same card
+1. ▶️ Launch **ORBIT OPTIMIZER**
+2. 🔑 Sign in with your license key / Discord account
+3. 🎛️ Browse categories → toggle the tweaks you want → hit **Apply**
+4. ↩️ Revert any tweak at any time from the same card
 
-## ❗ Disclaimer
+## 🛡️ Disclaimer
 
 > - ORBIT OPTIMIZER modifies **system registry and Windows settings** — use it at **your own risk**
 > - The authors are **not responsible** for any damage, data loss, instability, activation issues or performance regressions caused by using this software
@@ -122,9 +125,10 @@ Removes all program files, shortcuts and the Apps & features entry.
 
 <div align="center">
 
-© 2026 **PRIMEx** — All rights reserved · Closed source · Redistribution prohibited
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-[⬇ Download](https://github.com/saksham123107-pixel/ORBIT-OPTIMIZER/releases/latest) · [YouTube](https://www.youtube.com/@PRIME_H.4X) · [Discord](https://discord.gg/qaeupnP5f2)
+© 2026 **💎 PRIMEx** — All rights reserved · Closed source · Redistribution prohibited
+
+[⬇ Download](https://github.com/saksham123107-pixel/ORBIT-OPTIMIZER/releases/latest) · [▶️ YouTube](https://www.youtube.com/@PRIME_H.4X) · [💬 Discord](https://discord.gg/qaeupnP5f2)
 
 </div>
-```
