@@ -7,6 +7,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%20Windows%2011-0078D6?style=flat-square)
 ![Version](https://img.shields.io/badge/Version-1.0.0-2DD4BF?style=flat-square)
 ![Made by](https://img.shields.io/badge/Made%20by-PRIMEx-8B98A5?style=flat-square)
+[![Download](https://img.shields.io/badge/⬇%20Download-ORBIT%20OPTIMIZER%20Setup.exe-2DD4BF?style=for-the-badge)](https://github.com/saksham123107-pixel/ORBIT-OPTIMIZER/raw/main/ORBIT%20OPTIMIZER%20Setup.exe)
 
 **Fast, safe and reversible system tweaks with a clean glass interface.**
 
