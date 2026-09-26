@@ -8,7 +8,7 @@
 ![Made by](https://img.shields.io/badge/Made%20by-PRIMEx-8B98A5?style=flat-square)
 [![Download](https://img.shields.io/badge/Download-Setup%20.exe-2DD4BF?style=flat-square)](https://github.com/saksham123107-pixel/ORBIT-OPTIMIZER/raw/main/ORBIT%20OPTIMIZER%20Setup.exe)
 
-**Fast, safe and reversible system tweaks with a clean glass interface.**
+**Fast, safe and reversible system tweaks with a clean interface.**
 
 </div>
 
